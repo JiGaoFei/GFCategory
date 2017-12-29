@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
 
 
  s.frameworks = "UIKit", "QuartzCore"
-
+echo "3.0" > .swift-version  
  
 
   s.requires_arc = true
